@@ -54,3 +54,6 @@ docs/_build/
 
 # Swap fles
 *.swp
+
+# Vagrant files
+.vagrant
